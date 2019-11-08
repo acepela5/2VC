@@ -26,14 +26,13 @@ section {
 h2{
     font-family: 'Cormorant', serif;
     position: relative;
-    right: 320px;
-    top: 50px;
+    right: 300px;
 }
 
 hr {
-    position: relative;
-    top: 40px;
-    right: 315px;
+    position: absolute;
+    /* top: 40px;
+    right: 315px; */
 }
 
 #bio {
@@ -50,9 +49,10 @@ p {
 .logoPic {
     height: 400px;
     padding: 5px;
-    position: relative;
-    left: -300px;
-    top: 100px;
+    position: absolute;;
+    left: -60px;
+    top: 130px;
+    z-index: -1;
 }
 
 /* group image  */
@@ -71,9 +71,9 @@ p {
 .bubblePhoto {
     height: 100px;
     border-radius: 150px;
-    position: relative;
+    /* position: relative;
     bottom: 300px;
-    margin: 30px;
+    margin: 30px; */
 }
 
   /* footer */
