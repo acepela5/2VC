@@ -29,6 +29,15 @@ h2{
     right: 320px;
 }
 
+h4 {
+    font-family: 'Cormorant', serif;
+}
+
+h5 {
+    position: relative;
+    top: 12px;
+}
+
 hr {
     position: relative;
     top: -5px;
@@ -43,6 +52,10 @@ p {
 .container {
     position: relative;
     z-index: 10;
+}
+
+#bottom-margin {
+    margin-bottom: 150px;
 }
 
 /* logo */
