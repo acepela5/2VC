@@ -3,7 +3,7 @@
 } */
 /* nav bar */
   /* media query */
-  @media screen and (max-width: 600px) {
+  /* @media screen and (max-width: 600px) {
     .nav-wrapper{
         width: 100%;
         left: 0px;
@@ -50,7 +50,7 @@
         width: 80%;
         left: 0px;
     }
-}
+} */
 
 
 .nav-wrapper {
