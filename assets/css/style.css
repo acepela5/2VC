@@ -13,13 +13,10 @@
         right: -400px;
     }
 
-    h2 {
-        left: -130px;
-    }
+    /* h2 {
+        left: 300px;
+    } */
 
-    hr {
-        left: -130px;
-    }
   }
 
   @media screen and (min-width: 600px) {
@@ -32,13 +29,9 @@
         left: 0px;
     }
 
-    h2 {
+    /* h2 {
         left: -130px;
-    }
-
-    hr {
-        left: -130px;
-    }
+    } */
 }
 
 @media screen and (min-width: 992px) {
@@ -87,13 +80,7 @@ h4 {
 h5 {
     position: relative;
     top: 12px;
-}
-
-hr {
-    position: relative;
-    top: -5px;
-    left: -300px;
-}   
+} 
 
 p {
     float: left;
